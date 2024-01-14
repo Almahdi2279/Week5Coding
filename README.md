@@ -18,3 +18,5 @@
 "# Week4CodingAssignment" 
 "# my2ndcodingproject" 
 "# Week5Coding" 
+"# Week7-Mysqol-coding-project" 
+"# Week7-Mysqol-coding-project" 
